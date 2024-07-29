@@ -1,19 +1,18 @@
 # Logistics
 This class will run August 26 through the 29th CENTRAL TIME ZONE 8AM-4PM with breaks.
 You must have working microphone and video. 
->  Out of respect for others we will keep our video on and mute our microphone when not talking.
+Out of respect for others we will keep our video on and mute our microphone when not talking.
 You must be able to access these sites with your device:
-  Please be prepared to use a personal device if nessessary.
-  zoom.com (meeting link will be sent after registration)
-  menti.com (open no login - link in zoom)
-  vmlt.com (account login and link will be sent after registration)
-  and this github.com
+Please be prepared to use a personal device if nessessary.
+zoom.com (meeting link will be sent after registration)
+menti.com (open no login - link in zoom)
+vmlt.com (account login and link will be sent after registration)
+github.com
 # Prerequisite readings
 Since I do not know what you do not know, I need you to read it all or make a judgment call that you understand the material prior to class time.
-  50 PDFs 72MB - this will take 
+  50 PDFs 72MB - if you have not done other preparation this will take many hours (100-200)
   The readings represent the knowledge necessary to get the most from class. 
   They do not represent 4 to 6 years worth of CISSP knowledge that is required to attempt the exam.
-  This is about 
 # What is your goal?
   Passing the exam?
   Solving cyber-security problems?
