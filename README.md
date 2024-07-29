@@ -1,7 +1,7 @@
 # Logistics
 This class will run August 26 through the 29th CENTRAL TIME ZONE 8AM-4PM with breaks.
 You must have working microphone and video. 
-  Out of respect for others we will keep our video on and mute our microphone when not talking.
+>  Out of respect for others we will keep our video on and mute our microphone when not talking.
 You must be able to access these sites with your device:
   Please be prepared to use a personal device if nessessary.
   zoom.com (meeting link will be sent after registration)
