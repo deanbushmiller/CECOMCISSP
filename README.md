@@ -35,12 +35,13 @@ More difficult activities = better learning.
 These activities have been tested over 20 years.
 They are the best deliberate practice you can get.
 Each day we will cover 2 domains using these activities:
-  Threats & Controls - Given a threat what is best control in this domain?
-  Risk - What analysis steps is this?
-  SDLC - Where are we in the SDLC? What are the security requirements at this point?
-  CASE - What is wrong and how will a CISSP fix this?
-  Best Practices - Which best practice is being exhibited or broken in the example?
+  THREATS & CONTROLS - Given a threat what is best control in this domain?
+  RISK - What analysis steps is this?
+  SDLC - Where are we in the software development life cycle? What are the security requirements at this point?
+  CASE - What is wrong in this case and how will you fix this the CISSP way?
+  BEST PRACTICES - Which best practice is being exhibited or broken in the example?
   Q&A - You must read mindmaps before class to ask questions.
+### Time limits
 Each domain will have a time limit - if we get caught up in an activity  and do not get to every activity - then fine we are excited and learning.
 At the end of each day, we will vote on the order of activities for the next day.
 ## First day - first hour
