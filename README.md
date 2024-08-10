@@ -23,6 +23,7 @@ Since I do not know what you do not know, I need you to read it all or make a ju
   Day 3 - IAM - Identity Access Management & DEV - Software Development Security
   Day 4 - CNS - Communications and Network Security & OPS - Operations Security
 # What happens before class
+  Get 500 Notecards (3x5)& 4 color pen (BIC 4-Color)
   Read mindmaps in the above order.
   Each mindmap is a set of content for the domain. (folder above)
 # What happens in class
