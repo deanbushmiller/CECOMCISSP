@@ -1,3 +1,8 @@
+# Test links
+Mentimeter.com
+vmlt.com
+https://docs.google.com/spreadsheets/d/1s4AiwT5mUAav2qK8-cEoeCOnnO5yhVKk2J7UOxkF18I/edit?usp=sharing
+zoom.com
 # Logistics
 This class will run August 26-29 CENTRAL TIME ZONE 8AM-4PM with breaks.
 You must have a working microphone and video. 
